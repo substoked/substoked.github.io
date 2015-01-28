@@ -1,6 +1,12 @@
 <hgroup>
-  <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-  {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
-  {% endif %}
+  <h1>
+    <a class="header-wrapper" href="{{ root_url }}/">
+    		<img src="/images/header-image.jpg"/>
+    		<span class="small-title">SUB</span>
+    		<span class="large-title">STOKED</span>
+        {% if site.subtitle  %}
+           <span class="sub-title">{{ site.subtitle }}</span>
+         {% endif %}
+  	</a>
+  </h1>
 </hgroup>

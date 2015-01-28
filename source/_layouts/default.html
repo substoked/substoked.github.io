@@ -2,7 +2,11 @@
 {% include head.html %}
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
   <header role="banner">{% include header.html %}</header>
-  <nav role="navigation">{% include navigation.html %}</nav>
+ 
+	<nav role="navigation">
+    {% include navigation.html %}
+  </nav>
+
   <div id="main">
     <div id="content">
       {{ content | expand_urls: root_url }}
@@ -10,5 +14,25 @@
   </div>
   <footer role="contentinfo">{% include footer.html %}</footer>
   {% include after_footer.html %}
+  <script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '5476a942e32bb42bf3000876');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+<script src="{{ root_url }}/javascripts/justifiedGallery.js"></script>
+<script src="{{ root_url }}/javascripts/scrollingflickrs.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".flickr-set").justifiedGallery();
+  });
+</script>
 </body>
 </html>

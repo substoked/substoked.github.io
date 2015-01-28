@@ -1,18 +1,23 @@
-body > header {
-  background: $header-bg;
-  h1 {
-    display: inline-block;
-    margin: 0;
-    a, a:visited, a:hover {
-      color: $title_color;
-      text-decoration: none;
-    }
-  }
-  h2 {
-    margin: .2em 0 0;
-    @extend .sans;
-    font-size: 1em;
-    color: $subtitle-color;
-    font-weight: normal;
-  }
+
+.small-title {
+	font-size: 40px;
+	margin-left: -130px;
+	color: $secondary-text-color;
+}
+
+.large-title {
+	font-size: 90px;
+	margin-left: -10px;
+	color: #596579;
+}
+
+.title-wrapper{
+    bottom: 0;
+    left: 0;
+}
+
+.sub-title {
+    @extend .sans-serif-font-bold;
+    color: $secondary-text-color;
+    font-size: 1.011rem; /* 2.618 - 0.107 */
 }

@@ -2,12 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://substoked.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
-description:
+url: http://substoked.com
+title: Substoked
+subtitle : definitely not professional skiers
+author: Martin Holman and Amy Palamountain
+description: Stoked on Skis - No pro's
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +18,8 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: amy@palamounta.in
+include_navigation: true
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -91,11 +91,15 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: substoked
 disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
+flickr:
+  api_key: 3cc1d03a1f5002d5ebaac1ef572c0c26
+  shared_secret: 2fce83cc53417de7
