@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Bonfire time"
+date: 2014-12-12 11:29:39 -0800
+comments: true
+categories: 
+---
+
+Our temporary accomodation has a bonfire area out the front. It was a struggle
+to get snow soaked wood to light but we managed it in the end
+
+{% flickr_image 16202987068 z %}
