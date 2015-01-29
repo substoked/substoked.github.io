@@ -4,7 +4,7 @@
   <title><![CDATA[Substoked]]></title>
   <link href="http://substoked.com/atom.xml" rel="self"/>
   <link href="http://substoked.com/"/>
-  <updated>2015-01-28T16:51:42-08:00</updated>
+  <updated>2015-01-28T17:01:35-08:00</updated>
   <id>http://substoked.com/</id>
   <author>
     <name><![CDATA[Martin Holman and Amy Palamountain]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Holiday Train!]]></title>
+    <link href="http://substoked.com/blog/2014/12/14/holiday-train/"/>
+    <updated>2014-12-14T18:52:31-08:00</updated>
+    <id>http://substoked.com/blog/2014/12/14/holiday-train</id>
+    <content type="html"><![CDATA[<p>Canada runs a train from coast to coast every xmas time which is all decorated
+with lights. Tonight was the night it rolled into Revelstoke. We went down and
+donated some cans to the local food bank and listened to cheesy xmas songs from
+a band on the train.</p>
+
+<p><figure class="flickr-thumbnail" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7304/16390212051_dc16ee9e95_b.jpg" class="fancybox" data-title-id="flickr-photo-16390212051" data-media="photo"><img src="https://farm8.staticflickr.com/7304/16390212051_dc16ee9e95_z.jpg" title="Holiday Train" style=""/></a><figcaption id="flickr-photo-16390212051"><h1><a class="flickr-link" href="https://www.flickr.com/photos/31716880@N00/16390212051">Holiday Train</a> by martin308</h1><div class="description"></div></figcaption></figure></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More Temporary Accomodation...]]></title>
