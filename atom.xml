@@ -4,7 +4,7 @@
   <title><![CDATA[Substoked]]></title>
   <link href="http://substoked.com/atom.xml" rel="self"/>
   <link href="http://substoked.com/"/>
-  <updated>2015-01-28T17:01:35-08:00</updated>
+  <updated>2015-01-28T17:15:22-08:00</updated>
   <id>http://substoked.com/</id>
   <author>
     <name><![CDATA[Martin Holman and Amy Palamountain]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Canadian Ski Instructor]]></title>
+    <link href="http://substoked.com/blog/2014/12/19/canadian-ski-instructor/"/>
+    <updated>2014-12-19T17:04:10-08:00</updated>
+    <id>http://substoked.com/blog/2014/12/19/canadian-ski-instructor</id>
+    <content type="html"><![CDATA[<p>I passed my level 1 CSIA ski instructor qualification! Looking forward to
+starting work and putting all the stuff I have learnt into practice</p>
+
+<p><figure class="flickr-thumbnail" style="display: inline-block;"><a href="https://farm9.staticflickr.com/8569/16206128967_bd3fff5b23_b.jpg" class="fancybox" data-title-id="flickr-photo-16206128967" data-media="photo"><img src="https://farm9.staticflickr.com/8569/16206128967_bd3fff5b23_z.jpg" title="Level 1!" style=""/></a><figcaption id="flickr-photo-16206128967"><h1><a class="flickr-link" href="https://www.flickr.com/photos/31716880@N00/16206128967">Level 1!</a> by martin308</h1><div class="description"></div></figcaption></figure></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Holiday Train!]]></title>
