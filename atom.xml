@@ -4,7 +4,7 @@
   <title><![CDATA[Substoked]]></title>
   <link href="http://substoked.com/atom.xml" rel="self"/>
   <link href="http://substoked.com/"/>
-  <updated>2015-02-02T10:28:58-08:00</updated>
+  <updated>2015-02-02T10:41:43-08:00</updated>
   <id>http://substoked.com/</id>
   <author>
     <name><![CDATA[Martin Holman and Amy Palamountain]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Accomodation: Sutton Place]]></title>
+    <link href="http://substoked.com/blog/2014/12/21/new-accomodation-sutton-place/"/>
+    <updated>2014-12-21T10:30:32-08:00</updated>
+    <id>http://substoked.com/blog/2014/12/21/new-accomodation-sutton-place</id>
+    <content type="html"><![CDATA[<p>Unfortunately the septic tank in our temporary accomodation broke and we had to
+quickly move out. Fortunately our new accomodation was the
+<a href="https://www.suttonplace.com">Sutton Place hotel</a> which is the hotel at the bottom
+of the first gondola!</p>
+
+<p><figure class="flickr-thumbnail" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7530/15540971603_a9756a4493_b.jpg" class="fancybox" data-title-id="flickr-photo-15540971603" data-media="photo"><img src="https://farm8.staticflickr.com/7530/15540971603_a9756a4493_z.jpg" title="Untitled photo" style=""/></a><figcaption id="flickr-photo-15540971603"><h1><a class="flickr-link" href="https://www.flickr.com/photos/31520576@N02/15540971603">Untitled photo</a> by Amy Palamountain</h1><div class="description"></div></figcaption></figure></p>
+
+<p>The hotel rooms are super fancy and we have use of an outdoor pool and hot tub!</p>
+
+<p><figure class="flickr-thumbnail" style="display: inline-block;"><a href="https://farm8.staticflickr.com/7566/16067848472_716668a267_b.jpg" class="fancybox" data-title-id="flickr-photo-16067848472" data-media="photo"><img src="https://farm8.staticflickr.com/7566/16067848472_716668a267_z.jpg" title="Sutton Place Pool in the snow" style=""/></a><figcaption id="flickr-photo-16067848472"><h1><a class="flickr-link" href="https://www.flickr.com/photos/31520576@N02/16067848472">Sutton Place Pool in the snow</a> by Amy Palamountain</h1><div class="description"></div></figcaption></figure></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Day of Work]]></title>
