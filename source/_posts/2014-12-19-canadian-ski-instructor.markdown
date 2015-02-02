@@ -6,7 +6,6 @@ comments: true
 categories: 
 ---
 
-I passed my level 1 CSIA ski instructor qualification! Looking forward to
-starting work and putting all the stuff I have learnt into practice
+Martin passed his level 1 CSIA ski instructor qualification!
 
 {% flickr_image 16206128967 z %}
