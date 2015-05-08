@@ -8,4 +8,4 @@ categories:
 
 Martin got his uniform today and started work by giving his first ski lesson!
 
-{% flickr_image 15806566094 z %}
+{% flickr_image 16206251127 z %}
